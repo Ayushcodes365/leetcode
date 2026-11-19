@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Ayushcodes365/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayushcodes365/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ayushcodes365/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ayushcodes365/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayushcodes365/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Ayushcodes365/leetcode/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ayushcodes365/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
